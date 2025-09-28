@@ -9,13 +9,13 @@ python code
 create database fxrate_db;
 
 ```
-# Tranfor,m to SQL
+# Tranform to SQL
 ```
 .dlt\
   -> secrets.toml
 ```
 
-# Open Terminal to load the data into sql
+# Open Terminal to transform  the data into sql
 ```
 cd foldername
 pip install requests pandas dlt psycopg2-binary sqlalchemy
@@ -42,3 +42,6 @@ use select quer yor script -> select
 ```
 
 <img width="1187" height="861" alt="image" src="https://github.com/user-attachments/assets/d736e7a3-dbbc-4a11-99f9-0432463373ad" />
+
+
+#Load to  the BI Tool

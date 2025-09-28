@@ -20,7 +20,7 @@ create database fxrate_db;
 cd foldername
 pip install requests pandas dlt psycopg2-binary sqlalchemy
 python ETL_EXTRACT.py
-<img width="1187" height="861" alt="image" src="https://github.com/user-attachments/assets/d736e7a3-dbbc-4a11-99f9-0432463373ad" />
+
 
 ```
 
@@ -41,3 +41,4 @@ select the schema
 use select quer yor script -> select
 ```
 
+<img width="1187" height="861" alt="image" src="https://github.com/user-attachments/assets/d736e7a3-dbbc-4a11-99f9-0432463373ad" />
